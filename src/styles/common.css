@@ -1,0 +1,12 @@
+.maindiv {
+  padding-left: 80px;
+}
+
+p {
+  font-size: clamp(1rem, 0.3043rem + 3.4783, 3rem);
+}
+@media (max-width: 768px) {
+  .maindiv {
+    padding-left: 0px;
+  }
+}
