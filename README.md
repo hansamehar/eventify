@@ -11,5 +11,5 @@ A web-based platform that allows users to browse, purchase, and manage event tic
 
 ## Tech Stack
 
-HTML, CSS, React, Redux, Bootstrap, Node.js, Express.js, MongoDB, JWT, Chart.js
+HTML, CSS, React, Bootstrap, Node.js, Express.js, MongoDB, JWT, Chart.js
 
