@@ -1,8 +1,15 @@
-# React + Vite
+# Event Ticketing System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based platform that allows users to browse, purchase, and manage event tickets. Admin can create and manage events, while users can easily view event details and secure tickets.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse and purchase event tickets.
+- User authentication with JWT.
+- Admin panel to manage events.
+- Dashboard with metrics and charts using Chart.js.
+
+## Tech Stack
+
+HTML, CSS, React, Redux, Bootstrap, Node.js, Express.js, MongoDB, JWT, Chart.js
+
